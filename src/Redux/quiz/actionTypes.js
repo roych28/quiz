@@ -1,0 +1,2 @@
+export const GET_QUESTIONS = "GET_QUESTIONS";
+export const CHANGE_SCORE = "CHANGE_SCORE";
